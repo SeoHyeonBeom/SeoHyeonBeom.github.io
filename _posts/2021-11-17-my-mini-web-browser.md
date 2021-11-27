@@ -39,22 +39,22 @@ When I didn't know anything about app development, it was the development of thi
 
 Although it was a simple web browser, it was my first app work, and it was a fascinating and fun experience to be able to do all the functions of the browser than I thought.
 
-![Untitled 3](../assets/img/Untitled%203.png)
+![Untitled 3](../assets/img/google.png)
 
 Figure 2 - Implement code with simulator - google
 
 
-![Untitled 4](../assets/img/Untitled%204.png)
+![Untitled 4](../assets/img/twitter.png)
 
 Figure 3 - Implement code with simulator - twitter
 
 
-![Untitled 5](../assets/img/Untitled%205.png)
+![Untitled 5](../assets/img/apple.png)
 
 Figure 4 - Implement code with simulator - apple
 
 
-![Untitled 6](../assets/img/Untitled%206.png)
+![Untitled 6](../assets/img/facebook.png)
 
 Figure 5 - Implement code with simulator - facebook
 
