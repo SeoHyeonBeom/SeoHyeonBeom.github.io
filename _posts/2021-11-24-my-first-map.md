@@ -25,7 +25,7 @@ Figure 1 - My map page
 
 1. Establishing a basic initial environment to develop the web.
 
-![Untitled](../assets/img/swift.png)
+![Untitled](../assets/img/map.png)
 
 
 Figure 2 - My map page
@@ -33,7 +33,7 @@ Figure 2 - My map page
 
 2. Establishing a web-based map service through Naver Map api.
 
-![Untitled](../assets/img/swift.png)
+![Untitled](../assets/img/naverconsole.png)
 
 
 Figure 3 - Naver API 
