@@ -20,5 +20,5 @@ Let's know more about me!
 
 Please refer to the projects I've done.
 - Object Detection for Custom Dataset using CenterNet - Detection of Amenities existing in the room image ([Link](https://SeoHyeonBeom.github.io/2021-11-27-airbnb-clone-project-amenity-detection/))
-- Mini Web Browser - Simple Web Browser ([Link])
-- My First Map Service - Establishing a web-based map service through NAVER map API ([Link])
+- Mini Web Browser - Simple Web Browser ([Link](https://seohyeonbeom.github.io/2021-11-17-my-mini-web-browser/))
+- My First Map Service - Establishing a web-based map service through NAVER map API ([Link](https://seohyeonbeom.github.io/2021-11-24-my-first-map/))
