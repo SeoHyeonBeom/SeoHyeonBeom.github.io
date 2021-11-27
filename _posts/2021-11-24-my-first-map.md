@@ -1,7 +1,7 @@
 ---
 layout: post
-title: My First Map - map service
-subtitle: My First Map service
+title: My First Map - Map Service
+subtitle: My First Map Service
 cover-img: /assets/img/amenity_thumb.png
 thumbnail-img: /assets/img/amenity_thumb.png
 share-img: /assets/img/amenity_thumb.png
