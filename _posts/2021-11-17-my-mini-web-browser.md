@@ -66,8 +66,7 @@ Other apps using Swift will also be created and uploaded to the App Store.
 
 # My Work Code 
 
-https://github.com/SeoHyeonBeom/Sources/MiniBrowser/.git
-
+https://github.com/SeoHyeonBeom/Sources_Mini_Browser.git
 
 # References
 
