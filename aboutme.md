@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: 성장을 즐기는 AI Engineer 홍길동입니다.
+subtitle: This is Seo Hyeon Beom who will be the most influential person in AI Industry.
 ---
 
 Hello. This is Seo Hyeon Beom who will be the most influential person in AI Industry. Here are my skills.
@@ -13,6 +13,6 @@ Let's know more about me!
 
 ### Portfolio
 
-Please refer to the AI projects I've done.
+Please refer to the projects I've done.
 - Object Detection for Custom Dataset using CenterNet - Detection of Amenities existing in the room image ([Link](https://inflearnaiportfolio.github.io/2021-07-05-airbnb-clone-project-amenity-detection/))
 - TODO
