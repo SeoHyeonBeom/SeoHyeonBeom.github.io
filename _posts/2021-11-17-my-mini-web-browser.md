@@ -58,17 +58,6 @@ Figure 4 - Implement code with simulator - apple
 
 Figure 5 - Implement code with simulator - facebook
 
-**View_Controller
-
-![Untitled 5](../assets/img/web1.png)
-
-Figure 4 - code 1
-
-
-![Untitled 6](../assets/img/web2.png)
-
-Figure 5 - code 2
-
 
 
 # Future Work
@@ -79,6 +68,7 @@ Other apps using Swift will also be created and uploaded to the App Store.
 # My Work Code 
 
 https://github.com/SeoHyeonBeom/Sources.git
+
 
 # References
 
