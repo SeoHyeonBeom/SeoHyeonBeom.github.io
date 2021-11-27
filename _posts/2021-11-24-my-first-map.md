@@ -2,9 +2,9 @@
 layout: post
 title: My First Map - Map Service
 subtitle: My First Map Service
-cover-img: /assets/img/amenity_thumb.png
-thumbnail-img: /assets/img/amenity_thumb.png
-share-img: /assets/img/amenity_thumb.png
+cover-img: /assets/img/map.png
+thumbnail-img: /assets/img/map.png
+share-img: /assets/img/map.png
 tags: [web, web_browser, swift]
 ---
 
