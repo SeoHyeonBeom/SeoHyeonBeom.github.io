@@ -5,7 +5,7 @@ subtitle: My First Map Service
 cover-img: /assets/img/map.png
 thumbnail-img: /assets/img/map.png
 share-img: /assets/img/map.png
-tags: [web, web_browser, swift]
+tags: [map, map_service, html, css, js, api]
 ---
 
 # Map Service - Using Naver API
