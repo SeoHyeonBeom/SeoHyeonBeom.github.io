@@ -17,8 +17,8 @@ navbar-links:
   About Me: "aboutme"
   CS Portfolio:
     - Airbnb Amenity Detection: "2021-11-27-airbnb-clone-project-amenity-detection"
-    - My Web Browser: "2021-11-17-my-mini-web-browser"
     - My First Map Service: "2021-11-24-my-first-map"
+    - My Web Browser: "2021-11-17-my-mini-web-browser"
 
 # --- Logo --- #
 
