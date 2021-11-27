@@ -101,6 +101,12 @@ When IOU 0.5 or higher was considered the correct answer for each class, a mAP v
 
 As shown in the example above, you can see that the mAP value varies greatly by individual label. This may have several causes, but one of the main causes can be that the number of training images corresponding to each label varies greatly. Therefore, as the airbnb data science team did, I plan to collect additional images, label the correct answer, and train them using additional data to improve mAP in the future.
 
+# My Work Code 
+
+training - https://colab.research.google.com/drive/1jvDUqGYr6pvkffFtBFcElKJ09FCqPKPo?usp=sharing
+
+evaluation - https://colab.research.google.com/drive/1-_g4ifyi61HFlIHLMhiE-Jk6_5HLTL2S?usp=sharing 
+
 # References
 
 [1] [https://www.inflearn.com/course/욜로-딥러닝-논문구현?inst=60c23368](https://www.inflearn.com/course/%EC%9A%9C%EB%A1%9C-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%85%BC%EB%AC%B8%EA%B5%AC%ED%98%84?inst=60c23368)
