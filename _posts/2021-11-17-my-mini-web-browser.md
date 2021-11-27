@@ -2,10 +2,10 @@
 layout: post
 title: My Web Browser - Mini Web Browser
 subtitle: Simple Web Browser
-cover-img: /assets/img/amenity_thumb.png
-thumbnail-img: /assets/img/amenity_thumb.png
-share-img: /assets/img/amenity_thumb.png
-tags: [web, web_browser, swift]
+cover-img: /assets/img/web1.png
+thumbnail-img: /assets/img/google.png
+share-img: /assets/img/web2.png
+tags: [web, web_browser, swift, apple]
 ---
 
 # Web Browser - Swift application
