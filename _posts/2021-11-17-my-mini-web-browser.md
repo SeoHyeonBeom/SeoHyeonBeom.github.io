@@ -26,8 +26,7 @@ The use and development of Swift accelerated after Apple made it an open source.
 
 2. Swift is fast.
 It is argued that the code created using Swift is as fast as the compiled C code. This language was developed in a way that eliminates tedious tasks (e.g., semicolon input when changing rows) for a development environment with improved responsiveness. According to Apple's claim, the speed of completing the search algorithm is up to 2.6 times faster than Objective-C and up to 8.4 times faster than Python 2.7.
-
-  Apple introduces Swift as "a fast and efficient language that provides real-time feedback and can be fully integrated into object-C codes."
+Apple introduces Swift as "a fast and efficient language that provides real-time feedback and can be fully integrated into object-C codes."
 
 3. Swift is safe.
 The Swift team is paying a lot of attention to security. Therefore, there is no unsafe code when working in this language, and the latest programming rules that keep the app tightly safe are used.
