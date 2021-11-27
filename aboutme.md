@@ -14,5 +14,5 @@ Let's know more about me!
 ### Portfolio
 
 Please refer to the projects I've done.
-- Object Detection for Custom Dataset using CenterNet - Detection of Amenities existing in the room image ([Link](https://inflearnaiportfolio.github.io/2021-07-05-airbnb-clone-project-amenity-detection/))
+- Object Detection for Custom Dataset using CenterNet - Detection of Amenities existing in the room image ([Link](https://SeoHyeonBeom.github.io/2021-11-27-airbnb-clone-project-amenity-detection/))
 - TODO
