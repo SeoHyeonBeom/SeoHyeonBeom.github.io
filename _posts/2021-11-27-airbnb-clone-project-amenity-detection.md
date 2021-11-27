@@ -34,7 +34,7 @@ Figure 3 - AOperate unmanned stores using Amazon Go Object Detection technology 
 
 **airbnb** is a world-class company that provides accommodation sharing services. The airbnb data science team is making various attempts to improve its service quality using the latest deep learning and machine learning technologies. 
 
-Among their services, they have developed a feature that detects Amenities in photos uploaded by **hosts who want to rent rooms using Object Detection technology, and automatically allows customers who want to rent rooms to check what Amenities exist in their rooms without entering them one by one. [4]
+Among their services, they have developed a feature that detects Amenities in photos uploaded by **hosts who want to rent rooms using Object Detection technology**, and automatically allows customers who want to rent rooms to check what Amenities exist in their rooms without entering them one by one. [4]
 
 For example, whether a microwave oven, one of the convenience items, exists in a room can be an important criterion for choosing a room.
 
