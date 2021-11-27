@@ -16,9 +16,9 @@ Map service is a project that can quickly, easily and accurately understand web 
 
 
 ![Untitled](../assets/img/swift.png)
-
-
 Figure 1 - My map page
+
+
 
 **What can we learn and gain from this project?**
 
@@ -26,41 +26,41 @@ Figure 1 - My map page
 1. Establishing a basic initial environment to develop the web.
 
 ![Untitled](../assets/img/map.png)
-
-
 Figure 2 - My map page
+
+
 
 
 2. Establishing a web-based map service through Naver Map api.
 
 ![Untitled](../assets/img/naverconsole.png)
-
-
 Figure 3 - Naver API 
+
+
 
 
 3. Creating markers, info windows, and infoboxes required for fundamental map services.
 
 ![Untitled](../assets/img/swift.png)
-
-
 Figure 4 - markers, info windows, infoboxes
+
+
 
 
 4. Knowledge related to html, css, and js needed for web development.
 
 ![Untitled](../assets/img/swift.png)
-
-
 Figure 5 - my code
+
+
 
 
 5. Implementation of destination search function through Kakao api.
 
 ![Untitled](../assets/img/swift.png)
-
-
 Figure 1 - My map page
+
+
 
 
 
