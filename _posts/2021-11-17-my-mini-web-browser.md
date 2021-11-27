@@ -1,7 +1,7 @@
 ---
 layout: post
-title: My Web Browser - mini web browser
-subtitle: Simple web browser
+title: My Web Browser - Mini Web Browser
+subtitle: Simple Web Browser
 cover-img: /assets/img/amenity_thumb.png
 thumbnail-img: /assets/img/amenity_thumb.png
 share-img: /assets/img/amenity_thumb.png
