@@ -14,6 +14,12 @@ tags: [map, map_service, html, css, js, api]
 
 Map service is a project that can quickly, easily and accurately understand web development.
 
+**Before you read this post, please check my youtube link which is a map web-page video.**[1]
+
+[1][https://www.youtube.com/watch?v=VNIaD31pme4](https://www.youtube.com/watch?v=VNIaD31pme4)
+
+
+
 
 ![Untitled](../assets/img/main_map.png)
 Figure 1 - My map page
@@ -64,7 +70,7 @@ Figure 4 - markers, info windows, infoboxes
 
 **4. Knowledge related to html, css, and js needed for web development.**
 
-Please check my *work code*[1]
+Please check my *work code*[2]
 
 ![Untitled](../assets/img/mapcode1.png)
 ![Untitled](../assets/img/mapcode2.png)
@@ -117,12 +123,14 @@ The Covid-19 Map service has the function of updating corona confirmed patients 
 
 # My Work Code 
 
-[1][https://github.com/SeoHyeonBeom/Source_myfirstmap](https://github.com/SeoHyeonBeom/Source_myfirstmap)
+[2][https://github.com/SeoHyeonBeom/Source_myfirstmap](https://github.com/SeoHyeonBeom/Source_myfirstmap)
 
-[1][https://gist.github.com/SeoHyeonBeom](https://gist.github.com/SeoHyeonBeom)
+[2][https://gist.github.com/SeoHyeonBeom](https://gist.github.com/SeoHyeonBeom)
 
 
 # References
+
+[1][https://www.youtube.com/watch?v=VNIaD31pme4](https://www.youtube.com/watch?v=VNIaD31pme4)
 
 [https://navermaps.github.io/maps.js.ncp/](https://navermaps.github.io/maps.js.ncp/)
 
