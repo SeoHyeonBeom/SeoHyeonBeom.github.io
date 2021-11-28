@@ -12,6 +12,11 @@ tags: [web, web_browser, swift, apple]
 
 ## Introduction for Swift
 
+**Before you read this post, please check my youtube link which is my Mini Web Browser video**.[1]
+
+[1][https://youtu.be/SGD9HtLtao0](https://youtu.be/SGD9HtLtao0)
+
+
 In the field of os application, Swift is a representative languege for developing applications with many benefits.. 
 
 Here are the reasons **[why we use the swift]**
@@ -70,5 +75,8 @@ Other apps using Swift will also be created and uploaded to the App Store.
 
 
 # References
+
+[1][https://youtu.be/SGD9HtLtao0](https://youtu.be/SGD9HtLtao0)
+
 
 [https://www.itworld.co.kr/news/106157](https://www.itworld.co.kr/news/106157)
