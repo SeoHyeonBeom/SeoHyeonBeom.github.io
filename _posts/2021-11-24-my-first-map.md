@@ -49,11 +49,15 @@ Figure 3 - Naver API
 
 
 
+
 **3. Creating markers, info windows, and infoboxes required for fundamental map services.**
 
-![Untitled](../assets/img/record1.mov)
+![Untitled](../assets/img/info.png)
 
 Figure 4 - markers, info windows, infoboxes
+
+
+
 
 
 
@@ -70,9 +74,20 @@ Please check my *work code*[1]
 Figure 5 - my code
 
 
+
+
+
+
+
 **5. Check My Current Location.**
 
 ![Untitled](../assets/img/currentlocation.png)
+
+
+
+
+
+
 
 
 **6. Implementation of destination search function through Kakao api.**
