@@ -23,15 +23,25 @@ Figure 1 - My map page
 **What can we learn and gain from this project?**
 
 
-1. Establishing a basic initial environment to develop the web.
+**1. Establishing a basic initial environment to develop the web.**
 
-![Untitled](../assets/img/map.png)
-Figure 2 - My map page
+![Untitled](../assets/img/nodejs.png)
+
+Figure 2 - Node. js is primarily used for non-blocking, event-driven servers, due to its single-threaded nature. It's used for traditional web sites and back-end API services, but was designed with real-time, push-based architectures in mind.
+
+![Untitled](../assets/img/nodemon.png)
+
+Figure 3 - nodemon is a tool that helps develop node. js based applications by automatically restarting the node application when file changes in the directory are detected. nodemon does not require any additional changes to your code or method of development.
+
+![Untitled](../assets/img/express.png)
+
+Figure 4 - Express. js is a framework based on Node. js for which is used for building web-application using approaches and principles of Node.
 
 
 
 
-2. Establishing a web-based map service through Naver Map api.
+
+**2. Establishing a web-based map service through Naver Map api.**
 
 ![Untitled](../assets/img/naverconsole.png)
 Figure 3 - Naver API 
@@ -39,15 +49,18 @@ Figure 3 - Naver API
 
 
 
-3. Creating markers, info windows, and infoboxes required for fundamental map services.
+**3. Creating markers, info windows, and infoboxes required for fundamental map services.**
 
-![Untitled](../assets/img/.png)
+![Untitled](../assets/img/record1.mov)
+
 Figure 4 - markers, info windows, infoboxes
 
 
 
 
-4. Knowledge related to html, css, and js needed for web development.
+**4. Knowledge related to html, css, and js needed for web development.**
+
+Please check my *work code*[1]
 
 ![Untitled](../assets/img/mapcode1.png)
 ![Untitled](../assets/img/mapcode2.png)
@@ -57,12 +70,18 @@ Figure 4 - markers, info windows, infoboxes
 Figure 5 - my code
 
 
+**5. Check My Current Location.**
+
+![Untitled](../assets/img/record2.mov)
 
 
-5. Implementation of destination search function through Kakao api.
+**6. Implementation of destination search function through Kakao api.**
 
-![Untitled](../assets/img/swift.png)
-Figure 1 - My map page
+![Untitled](../assets/img/record3.mov)
+![Untitled](../assets/img/record4.mov)
+
+
+Figure 6 - Search any locations
 
 
 
@@ -83,13 +102,13 @@ The Covid-19 Map service has the function of updating corona confirmed patients 
 
 # My Work Code 
 
-https://github.com/SeoHyeonBeom/Sources.git
+[1]https://github.com/SeoHyeonBeom/Sources.git
 
 
 # References
 
-https://navermaps.github.io/maps.js.ncp/
+[https://navermaps.github.io/maps.js.ncp/](https://navermaps.github.io/maps.js.ncp/)
 
-https://www.ncloud.com/
+[https://www.ncloud.com/](https://www.ncloud.com/)
 
 
