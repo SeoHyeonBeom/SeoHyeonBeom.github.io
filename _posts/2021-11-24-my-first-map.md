@@ -2,9 +2,9 @@
 layout: post
 title: My First Map - Map Service
 subtitle: My First Map Service
-cover-img: /assets/img/map.png
-thumbnail-img: /assets/img/map.png
-share-img: /assets/img/map.png
+cover-img: /assets/img/main_map.png
+thumbnail-img: /assets/img/main_map.png
+share-img: /assets/img/main_map.png
 tags: [map, map_service, html, css, js, api]
 ---
 
@@ -15,7 +15,7 @@ tags: [map, map_service, html, css, js, api]
 Map service is a project that can quickly, easily and accurately understand web development.
 
 
-![Untitled](../assets/img/swift.png)
+![Untitled](../assets/img/main_map.png)
 Figure 1 - My map page
 
 
@@ -41,7 +41,7 @@ Figure 3 - Naver API
 
 3. Creating markers, info windows, and infoboxes required for fundamental map services.
 
-![Untitled](../assets/img/swift.png)
+![Untitled](../assets/img/.png)
 Figure 4 - markers, info windows, infoboxes
 
 
@@ -49,7 +49,11 @@ Figure 4 - markers, info windows, infoboxes
 
 4. Knowledge related to html, css, and js needed for web development.
 
-![Untitled](../assets/img/swift.png)
+![Untitled](../assets/img/mapcode1.png)
+![Untitled](../assets/img/mapcode2.png)
+![Untitled](../assets/img/mapcode3.png)
+![Untitled](../assets/img/mapcode4.png)
+
 Figure 5 - my code
 
 
