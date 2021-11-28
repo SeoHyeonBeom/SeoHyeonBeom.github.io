@@ -44,7 +44,7 @@ The airbnb data science team carried out the Amenity Detection project using Ten
 
 Figure 4 - Airbnb's Amenity Detection Project selected as a representative best case using TensorFlow.[3]
 
-The airbnb team organized the project in detail on their blog and released it.[4] Therefore, based on the **blog post of the airbnb data science team, I proceeded with the Amenity Detection project as a clone project.
+The airbnb team organized the project in detail on their blog and released it.[4] Therefore, based on the blog post of the airbnb data science team, I proceeded with **the Amenity Detection project as a clone project.**
 
 ## TensorFlow Object Detection API
 
@@ -56,7 +56,7 @@ It provides pre-trained parameters of the latest deep learning models for object
 
 Figure 5 - Example of detection using the TensorFlow Object Detection API. [6]
 
-The airbnb data science team reviewed Object Detection using Fast R-CNN and SSD models. However, this clone project has been trained and evaluated using the **more up-to-date model CenterNet[7] model proposed after airbnb's posting.
+The airbnb data science team reviewed Object Detection using Fast R-CNN and SSD models. However, this clone project has been trained and evaluated using the **more up-to-date model CenterNet[7] model proposed after airbnb's posting.**
 
 # Google Open Images Dataset
 
@@ -93,7 +93,7 @@ After 140,000 steps of training, the following evaluation results were obtained 
 
 Figure 8 - A screenshot of the TensorBoard process.
 
-For the entire test image, the mAP value of about **14.32 was obtained when IoU 0.5 or more was considered the correct answer.
+For the entire test image, **the mAP(mean Average Precision) value of about 14.32** was obtained when IoU 0.5 or more was considered the correct answer.
 
 When IOU 0.5 or higher was considered the correct answer for each class, a mAP value of 61.28 for the Swimming pool label, a mAP value of 5.33 for the Bathtub label, and a mAP value of 19.38 for the Oven label could be obtained.
 
