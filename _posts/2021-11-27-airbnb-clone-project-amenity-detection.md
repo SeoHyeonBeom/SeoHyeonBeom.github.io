@@ -52,9 +52,11 @@ TensorFlow Object Detection API is an API that enables object detection using th
 
 It provides pre-trained parameters of the latest deep learning models for object detection, such as Fast-RCNN, SSD, EfficientDet, and CenterNet, and code and setup files for learning.
 
-![Untitled 4](../assets/img/Untitled%204.png)
+![Untitled 4](../assets/img/street.jpeg)
+![Untitled 5](../assets/img/Untitled%204.png)
 
-Figure 5 - Example of detection using the TensorFlow Object Detection API. [6]
+
+Figure 5, 6 - Examples of detection using the TensorFlow Object Detection API. [6]
 
 The airbnb data science team reviewed Object Detection using Fast R-CNN and SSD models. However, this clone project has been trained and evaluated using the **more up-to-date model CenterNet[7] model proposed after airbnb's posting.**
 
@@ -62,9 +64,9 @@ The airbnb data science team reviewed Object Detection using Fast R-CNN and SSD 
 
 The Google Open Image Dataset is a dataset that contains a large amount of images released by Google and a bounding box for 600 labels. Based on Open Image Dataset V4, it has 1,743,042 Training Images and 14,610,229 Bounding Boxes. [8]
 
-![Untitled 5](../assets/img/Untitled%205.png)
+![Untitled 6](../assets/img/Untitled%205.png)
 
-Figure 6 - Information on Google Open Images Dataset V4
+Figure 7 - Information on Google Open Images Dataset V4
 
 Just like the airbnb data science team, I extracted only 30 Amenity labels from Google Open Images Dataset V4. The 30 amenity classes targeted for detection are as follows.
 
@@ -81,17 +83,17 @@ As a result of selecting images including the above 30 amenity classes from a to
 
 Using the CenterNet model, I trained 140,000 steps using 31,351 images, or 90% of 34,835 images containing 30 Amenity classes.
 
-![Untitled 6](../assets/img/Untitled%206.png)
+![Untitled 7](../assets/img/Untitled%206.png)
 
-Figure 7 - A screenshot of the TensorBoard training process for 140,000 steps.
+Figure 8 - A screenshot of the TensorBoard training process for 140,000 steps.
 
 # Evaluation
 
 After 140,000 steps of training, the following evaluation results were obtained for 3,483 test images, or 10% of 34,835 images.
 
-![Untitled 7](../assets/img/Untitled%207.png)
+![Untitled 8](../assets/img/Untitled%207.png)
 
-Figure 8 - A screenshot of the TensorBoard process.
+Figure 9 - A screenshot of the TensorBoard process.
 
 For the entire test image, **the mAP(mean Average Precision) value of about 14.32** was obtained when IoU 0.5 or more was considered the correct answer.
 
