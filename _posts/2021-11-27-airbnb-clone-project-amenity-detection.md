@@ -53,6 +53,7 @@ TensorFlow Object Detection API is an API that enables object detection using th
 It provides pre-trained parameters of the latest deep learning models for object detection, such as Fast-RCNN, SSD, EfficientDet, and CenterNet, and code and setup files for learning.
 
 ![Untitled 4](../assets/img/street.jpeg)
+
 ![Untitled 5](../assets/img/Untitled%204.png)
 
 
