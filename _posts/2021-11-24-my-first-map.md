@@ -108,18 +108,11 @@ Figure 6 - Search any locations
 
 
 
-## During working this project..
-
-I had fun developing apps, but in fact, I was not interested in web development and was not interested. However, after the coronavirus broke out, map services began to emerge rapidly, and I started to know how this service was implemented. Through the map service, I naturally learned what web development is. It wasn't easy to watch, study, and practice lectures alone, but I'm proud to see the results.
-
-Although it is a simple map service, it is my first web, and it is a fascinating and fun experience to be able to do all the functions of the webs than I thought.
-
-
-
 
 # Future Work
 
 The Covid-19 Map service has the function of updating corona confirmed patients in real time, and it takes too much time and money to reproduce there. I first knew that I had to manually update the number of confirmed cases every time, and that the more users I had, the more funds I needed to maintain web services. In the future, I will create a wonderful web page on time to receive investment from many companies and create a web page that can have a beneficial impact on people.
+
 
 # My Work Code 
 
