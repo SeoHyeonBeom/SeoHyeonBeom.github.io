@@ -4,7 +4,6 @@ title: About me
 subtitle: Seo Hyeon Beom
 ---
 
-Seo Hyeon Beom
 
 **Key Skills**
 
