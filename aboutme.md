@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: This is Seo Hyeon Beom who will be the most influential person in AI Industry.
+subtitle: Seo Hyeon Beom.
 ---
 
 Seo Hyeon Beom
