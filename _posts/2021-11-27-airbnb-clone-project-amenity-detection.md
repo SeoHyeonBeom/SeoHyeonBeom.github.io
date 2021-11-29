@@ -3,7 +3,7 @@ layout: post
 title: airbnb Clone Project - Amenity Detection
 subtitle: Object Detection Project about Custom Dataset
 cover-img: /assets/img/amenity_thumb.png
-thumbnail-img: /assets/img/room.png
+thumbnail-img: /assets/img/amenity_thumb.png
 share-img: /assets/img/amenity_thumb.png
 tags: [object detection, custom dataset, centernet]
 ---
