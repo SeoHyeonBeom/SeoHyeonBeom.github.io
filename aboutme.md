@@ -1,12 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Seo Hyeon Beom.
+subtitle: Seo Hyeon Beom
 ---
 
 Seo Hyeon Beom
 
-Key Skills
+**Key Skills**
 
 - Languages - C, Python, Java, Swift etc.
 - Understanding and utilizing the latest Object Detection models (SSD, Fast R-CNN, CenterNet)
