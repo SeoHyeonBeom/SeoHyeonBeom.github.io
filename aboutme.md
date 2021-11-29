@@ -4,9 +4,11 @@ title: About me
 subtitle: This is Seo Hyeon Beom who will be the most influential person in AI Industry.
 ---
 
-Hello. This is Seo Hyeon Beom who will be the most influential person in AI Industry. Here are my skills.
+Seo Hyeon Beom
 
-- language - C, Python, Java, Swift etc.
+Key Skills
+
+- Languages - C, Python, Java, Swift etc.
 - Understanding and utilizing the latest Object Detection models (SSD, Fast R-CNN, CenterNet)
 - Object Detection Project for Custom Dataset using TensorFlow
 - Establishing a basic initial environment to develop the web
