@@ -110,7 +110,7 @@ As shown in the example above, you can see that the mAP value varies greatly by 
 [https://colab.research.google.com/drive/1jvDUqGYr6pvkffFtBFcElKJ09FCqPKPo?usp=sharing](https://colab.research.google.com/drive/1jvDUqGYr6pvkffFtBFcElKJ09FCqPKPo?usp=sharing)
 
 **evaluation**
-[https://colab.research.google.com/drive/1ZPmeaZ7RecOovpqgx4LVWQsM8JAP0OvS?usp=sharing](https://colab.research.google.com/drive/1ZPmeaZ7RecOovpqgx4LVWQsM8JAP0OvS?usp=sharing)
+[centernet_amenity_detection_evaluate_sh.ipynb](centernet_amenity_detection_evaluate_sh.ipynb)
 
 # References
 
