@@ -107,7 +107,7 @@ As shown in the example above, you can see that the mAP value varies greatly by 
 # My Work Code 
 
 **training** 
-[https://colab.research.google.com/drive/1jvDUqGYr6pvkffFtBFcElKJ09FCqPKPo?usp=sharing](https://colab.research.google.com/drive/1jvDUqGYr6pvkffFtBFcElKJ09FCqPKPo?usp=sharing)
+[https://github.com/SeoHyeonBeom/SeoHyeonBeom.github.io/blob/master/centernet_amenity_detection_training_sh.ipynb](https://github.com/SeoHyeonBeom/SeoHyeonBeom.github.io/blob/master/centernet_amenity_detection_training_sh.ipynb)
 
 **evaluation**
 *If there's an error, press refresh.*
